@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fdf6ee;
+}
+
+.page {
+    width: 80%;
+    margin: 3rem auto;
+    padding: 2rem 0 4rem;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {color: #ff5233;font-size: 64px}
+
+#minha_foto {
+    margin: 1.5rem auto 2rem;
+}
